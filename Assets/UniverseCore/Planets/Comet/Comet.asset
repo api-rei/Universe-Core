@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c448ae44f1d7b024685404ff29f6158e, type: 3}
+  m_Name: Comet
+  m_EditorClassIdentifier: 
+  id: Comet
+  prefab: {fileID: 770896703352914005, guid: 84576c1d3238a264e81f426ab21c4a22, type: 3}
